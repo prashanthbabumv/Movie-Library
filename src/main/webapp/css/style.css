@@ -1,0 +1,28 @@
+@charset "ISO-8859-1";
+body{
+	background-color: red;
+}
+.user{
+	display: flex;
+	text-align: center;
+	border: 1px solid black;
+	width: 250px;
+	height: 100px;
+	margin-left: 500px;
+	border-radius: 10px;
+	background-color: white;
+}
+.user_container>:first-child{
+	color: red;
+	text-align: center;
+	font-size: 2.5rem;
+	line-height: 150px;
+	
+}
+.dropdown_two{
+	
+	margin-top: 300px;	
+}
+.btn{
+	color: red;
+}

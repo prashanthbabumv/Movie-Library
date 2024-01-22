@@ -1,0 +1,33 @@
+@charset "ISO-8859-1";
+
+body{
+	/*background-color: black;*/
+	padding: 0;
+	margin: 0;
+	background-image: url("https://wallpapers.com/images/featured/movie-9pvmdtvz4cb0xl37.jpg");
+	/*background-image: url("/com.project.movielibrary/src/main/webapp/Image/movie-collection.jpg");*/
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100vh;
+	
+}
+#bggg{
+	
+	border-color: red	;
+}
+#containerr{
+	border: 1px solid red;
+	/*border-color: red;*/
+	border-radius: 20px;
+	margin-top: 150px;
+	background-color: black;
+	
+}
+
+.labell{
+	color: white;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	font-size: 20px;
+	
+}
